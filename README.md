@@ -1,7 +1,7 @@
 # Hi, I'm Joel Diaz 👋
 
 ##  About Me
--  Founder of the first **Political Platform with an AI assistant analist** to interact with politic's data.
+-  Founder of the first Political Platform with an AI assistant analyst to interact with political data.
 -  I'm currently working on building software from scratch with **.NET**, **Angular**, and **PostgreSQL**.
 -  I'm leveraging **Python** for data analysis and AI integrations.
 -  I'm open to **remote** full-stack opportunities, ready to communicate effectively in **English (Advanced)**.
