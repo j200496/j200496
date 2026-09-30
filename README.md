@@ -1,6 +1,7 @@
 # Hi, I'm Joel Diaz 👋
 
 ##  About Me
+-  Founder of the first **Political Platform with an AI assistant analist** to interact with politic's data.
 -  I'm currently working on building software from scratch with **.NET**, **Angular**, and **PostgreSQL**.
 -  I'm leveraging **Python** for data analysis and AI integrations.
 -  I'm open to **remote** full-stack opportunities, ready to communicate effectively in **English (Advanced)**.
@@ -14,7 +15,9 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ##  Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-diaz-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-diaz-tech) 
+[![Instagram](https://shields.io)](https://www.instagram.com/joeltech_rd/)
+
 
 <!--
 **j200496/j200496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
