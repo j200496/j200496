@@ -13,10 +13,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-[![FastAPI](https://shields.io)](#)
+
 ##  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-diaz-tech) 
-[![Instagram](https://shields.io)](https://www.instagram.com/joeltech_rd/)
+![Instagram](https://githubusercontent.com)](https://www.instagram.com/joeltech_rd/)
 
 
 
